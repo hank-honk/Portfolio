@@ -8,3 +8,13 @@ cat - Show content of file
 head - show beginning of file (default first 10)
 grep - searches a specified file, returns all lines in file containing a specified string
 piping - stand. output 1 command as input for another command = |
+mkdir - create new directory
+rmdir - remove directory
+touch - create new file
+rm - removes file
+mv - moves file
+cp - copies file new location
+ls -a = hidden files
+ls -l = file perms 
+ls -la = both combined
+chmod - changed permission on files and directories
