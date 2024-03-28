@@ -1,0 +1,9 @@
+SELECT - which col return
+FROM - which table querey
+ORDER BY - org col by alphabetical or num a-z small-big
+  DESC - opposite
+WHERE - condition for filter
+LIKE - search pat in col
+  used with % to rep all unkowns after the known and used with WHERE
+  _ only subs one character and % substiutes infinite, "_" can also be added to sub more chars. EX "__" searchs next 2
+  "_" and "%" can both be used before and/or after what ur lookin for
