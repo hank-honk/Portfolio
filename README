@@ -20,6 +20,6 @@ ls -la = both combined
 chmod - changed permission on files and directories
 useradd - add user
 userdel - delete user
-sumo - elevated perms
+sudo - elevated perms
 apropos - searchest through man for specfied string
 less - return content 1 page at a time
