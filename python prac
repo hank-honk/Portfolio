@@ -18,3 +18,15 @@ def example(name):
 #sorted function
 list_example = [12, 2, 32, 19, 57, 22, 14]
 print(sorted(list_example))
+
+#converting input to string
+str()
+
+#returns length of string
+len()
+
+#returns string all caps or not
+.upper() print('fortnite'.upper())
+.lower()
+
+#
