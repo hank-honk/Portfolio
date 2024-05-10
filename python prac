@@ -29,4 +29,16 @@ len()
 .upper() print('fortnite'.upper())
 .lower()
 
-#
+#indices of string
+'hello'[1]
+-> 'e'
+'hello'[1:4]
+-> 'ell'
+
+#finding index of string
+print('hello'.index('e'))
+->1
+
+#if there are multiple instances, only shows index of 1st
+print('hello'.index('l'))
+->2
