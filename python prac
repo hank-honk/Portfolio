@@ -29,4 +29,31 @@ len()
 .upper() print('fortnite'.upper())
 .lower()
 
-#
+#index and slices
+[] notation [1:3] for slice
+.index finding beggining of substring
+
+#extracting from lists
+list_ex = ['1', '2', '3', '4', '5']
+print(list_ex[2])
+-> 3
+
+#combining list
+list_ex = ['1', '2', '3', '4', '5']
+list_2 = [desjoifjsofeisofs]
+print(list_ex + list_2)
+
+#changing list value
+list_ex = ['1', '2', '3', '4', '5']
+list_ex[1] = 9
+-> 1 9 3 4 5
+
+#insesrting elements to list
+list_ex = ['1', '2', '3', '4', '5']
+list_ex.insert(1,9)
+-> 1 9 2 3 4 5
+
+#remove from list
+list_ex = ['1', '2', '3', '4', '5']
+list_ex.remove('5')
+-> 1 2 3 4
