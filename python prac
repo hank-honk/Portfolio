@@ -57,3 +57,6 @@ list_ex.insert(1,9)
 list_ex = ['1', '2', '3', '4', '5']
 list_ex.remove('5')
 -> 1 2 3 4
+
+#adding inputs end of list
+.append
