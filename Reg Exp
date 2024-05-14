@@ -1,1 +1,16 @@
-# + means one or more occurances of char
+#always start importing re
+  import re
+
+"""
++ means one or more occurances of char
+\w means match alphavetical char
+example:
+  b\wa+b
+  can return: "bkaaab"
+  starts with 'b' \w the char 'a' and + means can be any amount of 'a' before char b
+can combine multiple \w
+  \w+@\w+\.\w+
+  finds emails
+"""
+
+#re.findall() returns all matches to reg function made
