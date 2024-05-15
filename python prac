@@ -60,3 +60,10 @@ list_ex.remove('5')
 
 #adding inputs end of list
 .append
+
+"""
+open() opens file -> takes two parameters (file name, action (r = read)
+with usually always used with external stuff like files
+.read convert file to string
+
+"""
