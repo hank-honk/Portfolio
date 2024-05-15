@@ -14,3 +14,11 @@ can combine multiple \w
 """
 
 #re.findall() returns all matches to reg function made
+
+"""
+\d match single digits
+\s matching single space
+\. match period
+{2} for ex show only 2 char max
+{1,3} means range, min 1 rep and max 3 rep
+* means 
