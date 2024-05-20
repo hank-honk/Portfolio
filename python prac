@@ -66,4 +66,6 @@ open() opens file -> takes two parameters (file name, action (r = read)
 with usually always used with external stuff like files
 .read convert file to string
 
+.join() list to string
+.split() string to list
 """
